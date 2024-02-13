@@ -14,5 +14,24 @@
 </div>
 
 
-sou apaixonado em tecnologia e em descobrir como as coisas funcionam por trás dos panos, sou curioso
-e isso que me motiva a aprender coisas novas todos os dias.
+👋 Olá, sou Neto peixoto
+
+🚀 Atualmente, estou focado em aprimorar minhas habilidades em programação, com ênfase em Python, Django REST Framework, e tecnologias web como HTML5 e CSS.
+
+🧪 Tenho experiência sólida em desenvolvimento orientado a testes, implementando testes unitários para garantir a qualidade do código. Além disso, estou envolvido em testes automatizados, utilizando Selenium para garantir a integridade e eficiência de aplicações web.
+
+💡 Tenho paixão por tecnologia e estou sempre animado para aprender coisas novas. Estou em busca constante de desafios interessantes e oportunidades para expandir meu conhecimento.
+
+🔧 Principais Áreas de Interesse:
+   - Python e Django
+   - Django REST Framework
+   - HTML5 e CSS
+   - Testes Unitários
+   - Automação de Testes com Selenium
+
+📚 Estou sempre aberto a colaborações e discussões sobre projetos empolgantes. Vamos aprender juntos e impulsionar a inovação!
+
+📫 Como entrar em contato: joseneto55peixoto@gmail.com
+
+#AlwaysLearning #CodePassion #TechEnthusiast #TestingAdvocate
+
