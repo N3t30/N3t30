@@ -1,37 +1,31 @@
-### Òla! eu sou o Neto peixoto 🖐️
+👋 Olá! Eu sou o Neto Peixoto
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neto-peixoto-2ab23521a/)
+🚀 Sobre mim
 
-![Neto GitHub stats](https://github-readme-stats.vercel.app/api?username=N3t30&show_icons=true&theme=radical)
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend. Atualmente, estou aprimorando minhas habilidades em Python, Django e Django REST Framework, além de tecnologias web básicas para suporte ao backend.
 
-## Tecnologias que eu uso no meu dia a dia
+Tenho interesse especial em boas práticas, segurança, arquitetura de APIs e qualidade de código.
 
-<div style="display: inline_block"></br>
-    <img align="center" all="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" all="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" all="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" all="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=whitee">
-</div>
+🛠️ Tecnologias que utilizo no dia a dia
+<div style="display: inline_block"><br/> <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white"> </div>
+🧪 Qualidade e Testes
 
+Tenho experiência com testes unitários e testes automatizados, sempre buscando garantir a confiabilidade e a manutenibilidade das aplicações. Já utilizei Selenium para automação de testes em aplicações web.
 
-👋 Olá, sou Neto peixoto
+🎯 Áreas de interesse
 
-🚀 Atualmente, estou focado em aprimorar minhas habilidades em programação, com ênfase em Python, Django REST Framework, e tecnologias web como HTML5 e CSS.
+Python & Django
 
-🧪 Tenho experiência sólida em desenvolvimento orientado a testes, implementando testes unitários para garantir a qualidade do código. Além disso, estou envolvido em testes automatizados, utilizando Selenium para garantir a integridade e eficiência de aplicações web.
+Django REST Framework
 
-💡 Tenho paixão por tecnologia e estou sempre animado para aprender coisas novas. Estou em busca constante de desafios interessantes e oportunidades para expandir meu conhecimento.
+APIs REST
 
-🔧 Principais Áreas de Interesse:
-   - Python e Django
-   - Django REST Framework
-   - HTML5 e CSS
-   - Testes Unitários
-   - Automação de Testes com Selenium
+Testes unitários e automatizados
 
-📚 Estou sempre aberto a colaborações e discussões sobre projetos empolgantes. Vamos aprender juntos e impulsionar a inovação!
+Segurança em aplicações web
 
-📫 Como entrar em contato: joseneto55peixoto@gmail.com
+📫 Contato
 
-#AlwaysLearning #CodePassion #TechEnthusiast #TestingAdvocate
+📧 Email: joseneto55peixoto@gmail.com
 
+💡 Estou sempre aberto a aprender, colaborar e trocar ideias sobre projetos e tecnologia.
